@@ -6,9 +6,9 @@ Task can be created, edited and removed. Also, sorting and various filtering opt
 
 ### Technology
 
-Front-end layer uses only JS and Bootstrap 4.
+Front-end layer uses only *JS* and *Bootstrap 4*.
 
-API is built on Node.js and MySQL database.
+API is built on *Node.js* and *MySQL* database.
 
 ### API
 
